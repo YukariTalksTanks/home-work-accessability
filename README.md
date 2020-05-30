@@ -21,8 +21,8 @@ It solves the issue of accessability of people unable to normally interact with 
 
 I personally learned how to properly edit and keep the integrity of a pre-made website through VS Code and how to pull-add-commit-push and merge files through the use of Git.
 
+GitHub Repository Link:
+https://github.com/YukariTalksTanks/home-work-accessability
 
-
-https://github.com/YukariTalksTanks/home-work-accessability/tree/Develop_Branch
-https://yukaritalkstanks.github.io/home-work-accessability/
-
+GitHub Pages link:
+https://yukaritalkstanks.github.io/home-work-accessability
